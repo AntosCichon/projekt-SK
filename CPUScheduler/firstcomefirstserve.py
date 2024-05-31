@@ -1,5 +1,0 @@
-
-
-def fcfs(processes):
-
-    return
