@@ -25,7 +25,7 @@ def main():
     # arg2 - maximal page id
     # arg3 - seed for generation. Remove it from call to use random
     # returns list of paths to test directories
-    pathsToTests = generateTestInput(pagecount, pagerange)
+    pathsToTests = generateTestInput(pagecount, pagerange, 0)
 
     for test in range(len(pathsToTests)): # iterate through generated tests
 
