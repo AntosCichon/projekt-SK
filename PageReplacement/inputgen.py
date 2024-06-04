@@ -5,7 +5,11 @@ from sys import exit
 import numpy
 import matplotlib.pyplot as plt
 
-# tests: 1 - ascending order
+# tests:
+# 1 - ascending order
+# 2 - uniform distribution
+# 3 - binomial distribution
+# 4 - exponential distribution
 
 # deletes all previous test directories recursively
 # then creates new test directories
