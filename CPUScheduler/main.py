@@ -1,5 +1,4 @@
 from time import time
-starttime = time()
 from sys import exit
 from inputgen import generateTestInput
 from datahandler import importData, exportData, visualizeData
